@@ -1,0 +1,41 @@
+{
+  "pizzas salgadas": {
+
+    "frango":              {"broto": 26.90, "grande": 44.90},
+    "mussarela":           {"broto": 26.90, "grande": 42.90},
+    "quatro queijos":      {"broto": 26.90, "grande": 46.90},
+    "portuguesa":          {"broto": 26.90, "grande": 45.90}
+   
+  },
+  "pizzas doces": {
+    
+    "beijinho":        {"broto": 25.90, "grande": 35.90},
+    "brigadeiro":      {"broto": 25.90, "grande": 35.90},
+    "chocolate":       {"broto": 25.90, "grande": 34.90}
+    
+  },
+  "beirutes": {
+    "bacon":             31.00,
+    "calabresa":         29.00,
+    "frango":            30.00
+    
+  },
+  "lanches": {
+    "x-bacon":     16.00,
+    "x-burguer":   14.00,
+    "x-calabresa": 16.00,
+    "x-egg":       16.00,
+    "x-salada":    15.00,
+    "x-tudo":      19.50
+  },
+  "porções": {
+    "polenta":             26.00,
+    "contra filé":         47.00,
+    "calabresa":           30.00,
+    "frango a passarinho": 34.90,
+    "fritas p":            11.00,
+    "fritas m":            13.00,
+    "fritas g":            15.00,
+    "adicional de fritas":  4.00
+  }
+}

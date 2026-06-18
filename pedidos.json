@@ -1,0 +1,48 @@
+[
+    {
+        "numero": 1,
+        "cliente": "ale",
+        "telefone": "11",
+        "itens": [
+            "Doritos Broto"
+        ],
+        "endereco": "abc",
+        "total": 27.9,
+        "status": "Recebido"
+    },
+    {
+        "numero": 2,
+        "cliente": "Alexandre",
+        "telefone": "whatsapp:+5511961254703",
+        "itens": [
+            "Milho Com Mussarela Grande"
+        ],
+        "endereco": "Abc",
+        "total": 44.9,
+        "status": "Recebido"
+    },
+    {
+        "numero": 3,
+        "cliente": "Alexandre",
+        "telefone": "whatsapp:+5511961254703",
+        "itens": [
+            "Doritos Grande",
+            "Banana Broto"
+        ],
+        "endereco": "Abc",
+        "total": 75.8,
+        "status": "Recebido"
+    },
+    {
+        "numero": 4,
+        "cliente": "Alexandre",
+        "telefone": "whatsapp:+5511961254703",
+        "itens": [
+            "Quatro Queijos Grande"
+        ],
+        "endereco": "Rua Puccini 45",
+        "total": 46.9,
+        "pagamento": "Cartão de crédito",
+        "status": "Recebido"
+    }
+]
